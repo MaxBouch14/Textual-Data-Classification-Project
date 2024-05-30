@@ -1,0 +1,3 @@
+# COMP551 Textual Data Classification Project
+This project was built during McGill University's Winter 2023 [COMP551 class](https://www.mcgill.ca/study/2022-2023/courses/comp-551). Its aim is to study the accuracy of several Machine Learning models when classifying the [IMDB Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+Models and techniques used include Naive Bayes, BERT (Bidirectional Encoder Representations from Transformers), Logistic Regression, SVM, NBSVM, XLNet and ALBERT (A Lite Bert).
